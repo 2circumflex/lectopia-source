@@ -1,0 +1,63 @@
+    *구조체 설계*
+
+//편의점 구조체
+struct gs
+{
+	char item[20];		품목
+	int amount;		수량
+	int sale_amount;	판매수량
+	int stocked_price;	입고가
+	int con_price;		소비자가(입고가*1.5)
+};
+
+//초기메뉴에서 날짜랑 돈입금
+struct intro
+{
+	int day;		날짜
+	int proper;		돈입금
+};
+
+//포인트 구조체
+struct point
+{
+	int number;		회원번호
+	int allpoint;		포인트
+};
+
+//수익 구조체
+struct profit
+{	
+	int allpro;		총수익
+	int netpro;		순수익
+};
+
+
+   *파일 설계*
+
+gs25.txt
+폼목명 총수량 판매수량
+새우깡 10 4
+감자깡 10 5
+ .
+ .
+ .
+
+
+point.txt
+회원번호 포인트
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+
+
+profit.txt
+날짜 총수익 순수익
+20120801 10000 5000
+
+

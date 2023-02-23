@@ -1,0 +1,16 @@
+void assign(Person *a, Person *b)
+{	
+	free(a->name);
+	int size = strlen(b->name) + 1;
+	a->age = b->age;
+	a->name = (char *)malloc(sizeof(char) * size);
+	strcpy(a->name, b->name);	
+}
+
+
+메인함수에
+
+assign(&ary[3], &ary[4]);
+	output(ary, size);
+	assign(&ary[3], &ary[4]);
+	output(ary, size);

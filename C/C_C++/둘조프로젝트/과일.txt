@@ -1,0 +1,60 @@
+strawberry
+딸기
+raspberry
+라즈베리
+cherry
+버찌 
+apricot
+살구
+Japanese apricot
+매실
+plum
+자두
+banana
+바나나 
+grapes
+포도 
+pear
+배
+sweet melon
+참외
+mango
+망고 
+tangerine
+귤
+persimmon
+감
+watermelon 수박
+raspberry 산딸기 
+lemon 레몬
+lime 라임
+litchi 리치
+papya 파파야
+grapefruit 자몽
+kiwi 키위
+mangosteen 망고스틴
+pomegranate 석류strawberry 딸기
+raspberry 라즈베리
+cherry 버찌 
+apricot 살구
+Japanese apricot 매실
+plum 자두
+banana 바나나 
+grapes 포도 
+pear 배
+sweet melon 참외
+mango 망고 
+tangerine 귤
+persimmon 감
+watermelon 수박
+raspberry 산딸기 
+lemon 레몬
+lime 라임
+litchi 리치
+papya 파파야
+grapefruit 자몽
+kiwi 키위
+mangosteen 망고스틴
+pomegranate 석류
+
+

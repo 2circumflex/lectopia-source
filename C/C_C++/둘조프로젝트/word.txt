@@ -1,0 +1,113 @@
+culture
+문화
+experience
+경험  
+education
+교육  
+symbol
+상징  
+effect
+결과
+liberty
+자유  
+affair
+사건  
+comfort
+안락
+tradition
+전통
+subject
+학과
+object
+물건
+source
+출처
+revolution
+혁명  
+pollution 오염  
+system 조직
+triumph 승리  
+respect 존경
+communication 전달
+foundation 기초
+glory 영광
+situation 위치
+competition 경쟁  
+prairie 대초원  
+effort 노력  
+section 부분  
+rein 고삐  
+solution 해결
+honour 명예
+unity 통일
+population 인구  
+direction 방향
+dialogue 대화  
+republic 공화국  
+method 방법  
+increase 증가
+decrease 감소
+amount 총액
+ancestor 조상  
+voyage 항해
+sculpture 조각
+instrument 가구   
+figure 모습
+activity 활동  
+cause 원인
+worth 가치  
+accident 사고
+adventure 모험  
+view 경치
+relative 친척  
+superstition 미신
+culture  문화
+experience 경험  
+education 교육  
+symbol 상징  
+effect 결과
+liberty 자유  
+affair 사건  
+comfort 안락
+tradition 전통
+subject 학과
+object 물건
+source 출처
+revolution 혁명  
+pollution 오염  
+system 조직
+triumph 승리  
+respect 존경
+communication 전달
+foundation 기초
+glory 영광
+situation 위치
+competition 경쟁  
+prairie 대초원  
+effort 노력  
+section 부분  
+rein 고삐  
+solution 해결
+honour 명예
+unity 통일
+population 인구  
+direction 방향
+dialogue 대화  
+republic 공화국  
+method 방법  
+increase 증가
+decrease 감소
+amount 총액
+ancestor 조상  
+voyage 항해
+sculpture 조각
+instrument 가구   
+figure 모습
+activity 활동  
+cause 원인
+worth 가치  
+accident 사고
+adventure 모험  
+view 경치
+relative 친척  
+superstition 미신

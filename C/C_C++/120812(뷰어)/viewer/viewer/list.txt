@@ -1,0 +1,5 @@
+a.txt 45
+eru.txt 63
+dream.txt 1
+test.txt 1
+cultwo.txt 157

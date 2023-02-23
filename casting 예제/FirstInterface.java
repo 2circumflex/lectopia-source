@@ -1,0 +1,5 @@
+interface FirstInterface
+{
+	void i();
+	
+}
